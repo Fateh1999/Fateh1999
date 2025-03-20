@@ -1,5 +1,83 @@
 # 💫 About Me:
-👋 Hi, <h1>I’m GURFATEH SINGH!<h1><br>🚀 Entry-Level Backend Web Developer passionate about building scalable, efficient server-side solutions. I thrive on turning complex problems into clean, maintainable code while learning the latest technologies.<br><br>🔧 Tech Toolkit<br><br>Languages: Python, JavaScript (Node.js), SQL<br><br>Frameworks: Express.js, Django, Flask<br><br>Databases: PostgreSQL, MongoDB<br><br>Tools: Git, Docker, RESTful APIs, AWS Basics<br><br>🌱 Currently Learning: Cloud architecture (AWS) and diving deeper into system design principles.<br>🔭 Interests: API development, database optimization, and contributing to open-source projects.<br><br>💡 Projects:<br><br>Built a RESTful API for Webroots using Node.js and MongoDB.<br><br>Collaborated on a team project to create a [project name] with JWT authentication.<br><br>💬 Ask me about backend best practices, my journey into web development, or my favorite coding resources!<br><br>📫 Let’s connect: [LinkedIn/Email]<br>⚡ Fun fact: When I’m not debugging code, you’ll find me [hobby, e.g., hiking, gaming, or reading tech blogs].<br><br>Open to collaborations, internships, and opportunities to grow!<br><br>
+<h1 align="center">👋 Hi, I'm Gurfateh Singh</h1>
+<h3 align="center">🚀 Passionate Backend Developer | Building Scalable Solutions</h3>
+
+<p align="center">
+  <a href="[Your LinkedIn URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:[Your Email]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 🔧 Tech Toolkit
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks**  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 🌱 Currently Learning
+- Cloud Architecture (AWS)
+- Advanced System Design Principles
+- Microservices Patterns
+
+---
+
+### 🚀 Latest Projects
+
+#### Webroots RESTful API
+> Node.js | MongoDB | Express.js  
+🔗 A scalable backend service for managing web content resources
+
+#### Secure Auth System
+> JWT | Node.js | PostgreSQL  
+🔗 Team collaboration project implementing secure authentication flow
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
+### 💬 Let's Connect
+- 📫 **Email**: [Your Email]
+- 💼 **LinkedIn**: [Your LinkedIn URL]
+- 🐦 **Twitter**: [Your Twitter Handle] (optional)
+
+⚡ **Fun Fact**: When I'm not debugging code, you'll find me hiking trails or deep in a tech blog rabbit hole!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views">
+</p>
 
 
 # 💻 Tech Stack:
