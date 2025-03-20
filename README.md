@@ -63,24 +63,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
----
-
-### 💬 Let's Connect
-- 📫 **Email**: [Your Email]
-- 💼 **LinkedIn**: [Your LinkedIn URL]
-- 🐦 **Twitter**: [Your Twitter Handle] (optional)
-
-⚡ **Fun Fact**: When I'm not debugging code, you'll find me hiking trails or deep in a tech blog rabbit hole!
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views">
 </p>
@@ -93,4 +75,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Fateh1999&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fateh1999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+### 💬 Let's Connect
+- 📫 **Email**: [Your Email]
+- 💼 **LinkedIn**: [Your LinkedIn URL]
+- 🐦 **Twitter**: [Your Twitter Handle] (optional)
+
+⚡ **Fun Fact**: When I'm not debugging code, you'll find me hiking trails or deep in a tech blog rabbit hole!
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
